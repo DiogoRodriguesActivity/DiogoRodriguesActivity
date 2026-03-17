@@ -53,8 +53,7 @@
 
 📄 Projeto academico realizado em grupo buscando solucionar o problema de descarte incorreto do Lixo Eletronico. </br>
 🛠️ Desenvolvido com Laravel
-
-    </td>
+</td>
     <td align="right">
       <img src="LINK_DA_LOGO_DO_PROJETO" width="120px" />
     </td>
