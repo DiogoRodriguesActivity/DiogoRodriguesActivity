@@ -59,15 +59,6 @@
 </table>
 ---
 
-## 🎨 Imagens Ilustrativas
-<!-- Espaço para prints, UI, projetos -->
-<p align="center">
-  <img src="LINK_IMAGEM_1" width="400px" />
-  <img src="LINK_IMAGEM_2" width="400px" />
-</p>
-
----
-
 ## 📫 Contato
 - 📧 Email: [DiogoRodriguesTwo@gmail.com]
 - 💼 LinkedIn: [[LINK_LINKEDIN](https://www.linkedin.com/in/diogo-rodrigues-648a28352/)]
