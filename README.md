@@ -12,7 +12,7 @@
 
     </td>
     <td align="right">
-      <img src="LINK_DA_SUA_FOTO_1" width="150px" style="border-radius: 10px;" />
+      <img src="images/FotoPerfil.jpg" width="150px" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
@@ -53,7 +53,7 @@
 🛠️ Desenvolvido com Laravel
 </td>
     <td align="right">
-      <img src="LINK_DA_LOGO_DO_PROJETO" width="120px" />
+      <img src="images/Eletro-DescarteLOGO.png" width="120px" />
     </td>
   </tr>
 </table>
