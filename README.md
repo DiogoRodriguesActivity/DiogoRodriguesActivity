@@ -49,9 +49,9 @@
     <td>
 
 ### 🔗 Eletro Descartes  
-[Eletro Descartes]([MEU_LINK_LEGAL](https://github.com/DiogoRodriguesActivity/EletroDescarte))  
+[Eletro Descartes](https://github.com/DiogoRodriguesActivity/EletroDescarte)
 
-📄 Projeto academico realizado em grupo buscando solucionar o problema de descarte incorreto do Lixo Eletronico.
+📄 Projeto academico realizado em grupo buscando solucionar o problema de descarte incorreto do Lixo Eletronico. </br>
 🛠️ Desenvolvido com Laravel
 
     </td>
