@@ -19,15 +19,13 @@
 
 ---
 ## 🛠️ Tecnologias e Linguagens
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  
-  <!-- Arquitetura de Redes (customizado) -->
   <img src="https://img.shields.io/badge/-Arquitetura%20de%20Redes-0A192F?style=flat-square&logo=cisco&logoColor=white" />
 </p>
 
@@ -36,8 +34,8 @@
 ## 📊 Estatísticas do GitHub
 <!-- Substitua "SEU_USERNAME" -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DiogoRodriguesActivity&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRodriguesActivity&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -71,10 +69,11 @@
 ---
 
 ## 📫 Contato
-- 📧 Email: [seuemail@email.com]
-- 💼 LinkedIn: [LINK_LINKEDIN]
-- 🐦 Twitter: [LINK_TWITTER]
+- 📧 Email: [DiogoRodriguesTwo@gmail.com]
+- 💼 LinkedIn: [[LINK_LINKEDIN](https://www.linkedin.com/in/diogo-rodrigues-648a28352/)]
 
 ---
 
-⭐ Se gostar dos meus projetos, não esqueça de deixar uma estrela!
+<h3 align="center">
+  ⭐ Se gostar dos meus projetos, não esqueça de deixar uma estrela!
+</h3>
