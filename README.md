@@ -1,6 +1,6 @@
 # 👋 Olá visitante! Prazer, me chamo Diogo
 
-<table>
+<table align="center">
   <tr>
     <td>
 
