@@ -31,15 +31,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-<!-- Substitua "SEU_USERNAME" -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiogoRodriguesActivity&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRodriguesActivity&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 📁 Projetos em Destaque
 
 <table>
