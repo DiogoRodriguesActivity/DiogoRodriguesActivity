@@ -1,4 +1,6 @@
-# 👋 Olá visitante! Prazer, me chamo Diogo
+<p align="center">
+  <img src="images/waves.gif" width="100%" alt="Ondas Animadas" />
+</p>
 
 <table align="center">
   <tr>
