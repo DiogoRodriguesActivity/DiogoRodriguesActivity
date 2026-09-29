@@ -5,8 +5,8 @@
 <table align="center">
   <tr>
     <td>
-
-## // Quem sou eu ?
+      
+<h2 align="center">// Quem sou eu ?</h2>
 - 💼 Profissão: Técnico em Informática  
 - 🎓 Formação: Técnico em informática no Colégio Cotemig  
 - 📍 Localização: Belo Horizonte  
