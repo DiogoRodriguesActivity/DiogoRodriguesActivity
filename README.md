@@ -6,7 +6,7 @@
   <tr>
     <td>
 
-## <!-- Sobre mim -->
+## // Quem sou eu ?
 - 💼 Profissão: Técnico em Informática  
 - 🎓 Formação: Técnico em informática no Colégio Cotemig  
 - 📍 Localização: Belo Horizonte  
