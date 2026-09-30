@@ -2,7 +2,7 @@
   <img src="images/waves.gif" width="100%" alt="Ondas Animadas" />
 </p>
 
-<table align="center">
+<table align="center" style="width: 100%">
   <tr>
     <td>
       
