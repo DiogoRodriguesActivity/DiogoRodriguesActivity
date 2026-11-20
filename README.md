@@ -1,5 +1,6 @@
+
 <p align="center">
-<img src="images/waves.gif" width="100%" alt="Ondas animadas" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=100&section=footer" width="100%" />
 </p>
 
 <h1 align="center">Diogo Rodrigues</h1>
