@@ -18,7 +18,7 @@
 </a>
 </p>
 
-// Sobre mim
+### // Sobre mim
 
 <table>
 <tr>
@@ -45,7 +45,7 @@ Busco constantemente aprimorar meus conhecimentos, desenvolver projetos e explor
 </tr>
 </table>
 
-// Tecnologias & ferramentas
+### // Tecnologias & ferramentas
 # Desenvolvimento Web
 
 <p>
@@ -55,7 +55,7 @@ Busco constantemente aprimorar meus conhecimentos, desenvolver projetos e explor
 # Banco de dados & programação
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,python" />
+<img src="https://skillicons.dev/icons?i=mysql,python,java" />
 </p>
 
 # Ferramentas & infraestrutura
@@ -64,13 +64,13 @@ Busco constantemente aprimorar meus conhecimentos, desenvolver projetos e explor
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
-/* Conhecimentos */
+/* Conhecimentos */ <br>
 Arquitetura e infraestrutura de redes
 Modelagem e gerenciamento de bancos de dados
 Lógica de programação
 Desenvolvimento de aplicações web
-Trabalho colaborativo e desenvolvimento de projetos
-// Projetos em destaque
+Trabalho colaborativo e desenvolvimento de projetos <br>
+### // Projetos em destaque
 
 <table>
 <tr>
@@ -91,23 +91,6 @@ Acessar repositório →
 </tr>
 </table>
 
-// Colaborações
-javascript
-const collaborations = {
-    project: "Eletro Descartes",
-    type: "Academic / Team Development",
-    technologies: [
-        "Laravel",
-        "PHP",
-        "MySQL"
-    ],
-    objective: "Desenvolver soluções em equipe"
-};
-
-
-Desenvolvimento colaborativo, compartilhamento de conhecimento e construção de soluções práticas.
-
-// Ver meus repositórios
 
 // GitHub Analytics
 
@@ -128,7 +111,7 @@ Desenvolvimento colaborativo, compartilhamento de conhecimento e construção de
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiogoRodriguesActivity&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
-// Contribution History
+#
 
 <p align="center">
 <picture data-importer="pacman">
@@ -140,13 +123,6 @@ Desenvolvimento colaborativo, compartilhamento de conhecimento e construção de
 ###
 </p>
 
-// Development Time
-text
-STATUS: CONSTANTLY LEARNING
-FOCUS: SOFTWARE DEVELOPMENT
-ACTIVITY: GITHUB CONTRIBUTIONS
-GOAL: CONTINUOUS IMPROVEMENT
-
 
 <p align="center">
 <a href="https://github.com/DiogoRodriguesActivity">
@@ -154,7 +130,7 @@ GOAL: CONTINUOUS IMPROVEMENT
 </a>
 </p>
 
-// Contact
+<h1 align="center">// Contact</h1>
 
 <p align="center">
 <a href="mailto:DiogoRodriguesTwo@gmail.com">
@@ -172,9 +148,6 @@ GOAL: CONTINUOUS IMPROVEMENT
 <code>Diogo Rodrigues © 2026</code>
 </p>
 
-<p align="center">
-<sub>// Obrigado por visitar meu perfil. Explore meus projetos.</sub>
-</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=100&section=footer" width="100%" />
